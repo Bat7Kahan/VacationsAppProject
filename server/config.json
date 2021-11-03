@@ -1,0 +1,11 @@
+{
+    "token":{
+        "key": "Project 3 token secret string",
+        "expiresIn": "10 minutes"
+    },
+    "database":{
+        "host": "localhost",
+        "user": "root",
+        "name": "project3"
+    }
+}
